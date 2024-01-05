@@ -1,0 +1,43 @@
+gsap.from("#text h1",{
+    opacity:0,
+    delay:0.4,
+    duration:1,
+    y:60
+})
+gsap.from("#textright p",{
+    opacity:0,
+    delay:0.4,
+    duration:1,
+    y:-60
+
+})
+gsap.from("#icons",{
+    opacity:0,
+    delay:0.4,
+    duration:1,
+    y:60
+})
+gsap.from("#bone",{
+    opacity:0,
+    delay:0.4,
+    duration:1,
+    y:60
+})
+gsap.from("#btwo",{
+    opacity:0,
+    delay:0.4,
+    duration:1,
+    y:-60
+})
+gsap.from("#bthree",{
+    opacity:0,
+    delay:0.4,
+    duration:1,
+    y:60
+})
+gsap.from("#bfour",{
+    opacity:0,
+    delay:0.4,
+    duration:1,
+    y:-60
+})
