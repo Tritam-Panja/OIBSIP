@@ -1,0 +1,3 @@
+    <img src="images/logo.png" class="logo">
+    #00ff
+    background-image: url(images/phone-background.png);
